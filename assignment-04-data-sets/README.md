@@ -2,7 +2,7 @@
 
 Please read:
 
-Deepa Seetharaman and Elizabeth Dwoskin (2015):  Facebook’s Restrictions on User Data Cast a Long Shadow
+Deepa Seetharaman and Elizabeth Dwoskin (2015):  [Facebook’s Restrictions on User Data Cast a Long Shadow](https://www.wsj.com/articles/facebooks-restrictions-on-user-data-cast-a-long-shadow-1442881332)
 
 PDF version: Facebook’s Restrictions on User Data Cast a Long Shadow - WSJ 
 A considerable amount of the material on APIs in our course text Mining the Social Web, 2/e (October 2013) 
