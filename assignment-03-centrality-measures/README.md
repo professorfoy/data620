@@ -1,4 +1,4 @@
-### Assignment 3 - Centrality Measures
+### Assignment 03 - Centrality Measures
 
 Centrality measures can be used to predict (positive or negative) outcomes for a node.
 
