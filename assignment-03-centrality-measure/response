@@ -6,7 +6,7 @@ In addition to identifying your data source, you should create a high level plan
 For this week’s assignment, you are not required to actually load or analyze the data.  Please see also Project 1 below.
 You may work in a small group on the assignment.   You should post your document to GitHub by end of day on Sunday.
 
-Response:
+**Response:**
 For this assignment, I will analyze how nonprofit organizations in New York City are connected through shared board members and whether Health Organization classified nonprofits occupy more influential positions within that governance structure. Using publicly available IRS data, I will construct a board interlock network of nearly 27,000 NYC nonprofits. In this network, two organizations are connected if they share at least one board member. These shared leadership relationships form a governance structure that reflects how influence, information, and strategic coordination may circulate across organizations. In this network, each node will represent a nonprofit organization, and an edge will exist between two nonprofits if they share at least one board member. Intuitively, it would seem plausible that doctors and other highly influential people would serve on multiple Boards in the health nonprofit organization ecosystem. 
 
 A key strength of the IRS dataset is that each nonprofit includes a categorical variable based on IRS National Taxonomy of Exempt Entities (NTEE codes). I will group organizations into two categories: Health and Non-Health. This classification will allow me to compare degree and eigenvector centrality measures across meaningful sector groups.
