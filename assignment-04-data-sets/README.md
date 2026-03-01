@@ -1,6 +1,7 @@
 #### Assignment 04 - Data Sets - Davis Club
 
-Instructions
+Instructions:
+
 Here is a dataset that shows a simple 2-node network:  the attendance of 18 Southern Women at 14 social events:
 
 Brief Description. Small “musty” datasets like that from this 1941 study have proven very valuable in testing and comparing new network algorithms.
