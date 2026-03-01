@@ -1,6 +1,6 @@
 #### Project 1
 
-For your first project, you are asked to
+For your first project, you are asked to:
 
 Identify and load a network dataset that has some categorical information available for each node.
 For each of the nodes in the dataset, calculate degree centrality and eigenvector centrality.
