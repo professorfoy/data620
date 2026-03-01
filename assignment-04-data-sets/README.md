@@ -1,13 +1,13 @@
-#### Assignment 04 - Data Sets
+#### Assignment 04 - Data Sets - Davis Club
 
-Please read:
+Instructions
+Here is a dataset that shows a simple 2-node network:  the attendance of 18 Southern Women at 14 social events:
 
-Deepa Seetharaman and Elizabeth Dwoskin (2015):  [Facebook’s Restrictions on User Data Cast a Long Shadow](https://www.wsj.com/articles/facebooks-restrictions-on-user-data-cast-a-long-shadow-1442881332)
+Brief Description. Small “musty” datasets like that from this 1941 study have proven very valuable in testing and comparing new network algorithms.
+Dataset.
+Python code to create dataset: https://networkx.github.io/documentation/stable/auto_examples/algorithms/plot_davis_club.html
+What can you infer about the relationships between (1) the women, and (2) the social events?  
 
-PDF version: Facebook’s Restrictions on User Data Cast a Long Shadow - WSJ 
-A considerable amount of the material on APIs in our course text Mining the Social Web, 2/e (October 2013) 
-has been either removed or deprecated. New sources of APIs are also constantly emerging. 
+Please provide your code and analysis in an Jupyter notebook stored in your GitHub repository.
 
-Give an example of where access to web-based data has changed (increased or decreased) over time, whether due to changes 
-in corporate objectives or in the regulatory environment.  Who was impacted (positively or negatively) by these changes?  
-What implications if any are there from the standpoint of being able to use this data in downstream analysis and/or product development?
+You may work in a small group on this project.
