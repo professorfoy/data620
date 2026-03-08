@@ -13,4 +13,4 @@ You may work in a small group.  Your project should be delivered in an Jupyter N
 Your project is due end of day Monday. You and your team should created a video presentation about your project. 
 You should be ready to present your project in our Meet-up on Thursday.
 
-The Panopto video file explaining this project can be found at [https://cunysps.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d124d11a-d1ef-469a-9ac7-b4070109e595]
+**The Panopto video file explaining this project can be found at [https://cunysps.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d124d11a-d1ef-469a-9ac7-b4070109e595]**
