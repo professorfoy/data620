@@ -15,4 +15,4 @@ You should be ready to present your project in our Meet-up on Thursday.
 
 **The Panopto video file explaining this project can be found at [https://cunysps.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d124d11a-d1ef-469a-9ac7-b4070109e595]**
 
-This project was aided by AI Assistance for some of the more complex coding.  
+This project was aided by AI Assistance to work out some of the more complex coding.  
