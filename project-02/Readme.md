@@ -28,10 +28,10 @@ Download the following files from this repository:
 
 You can download them by:
 
-Opening the file in GitHub
+1. Opening the file in GitHub
 
-Clicking Download Raw
+2. Clicking Download Raw
 
-Saving the file to the same folder on your computer
+3. Saving the file to the same folder on your computer
 
 Alternatively, download the entire repository as a ZIP file.
