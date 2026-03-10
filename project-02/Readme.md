@@ -7,3 +7,6 @@ What can you infer about each of the distinct groups?
 You may work in a small group on the project.
 
 Your code and analysis should be delivered in an IPython Notebook by end of day Monday 
+
+
+I created a **[Teams folder](https://teams.microsoft.com/v2/)** to populate mission and value statements for all NYC colleges.
