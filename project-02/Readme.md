@@ -20,13 +20,11 @@ I also created a working Python script to develop the project. It is labeled ***
 
 Follow the steps below to download and run the project notebook.
 
-1. Download the Project Files
-
 Download the following files from this repository:
 
-ipeds-colleges-complete-dataset-3-9-2026.csv
+  - ipeds-colleges-complete-dataset-3-9-2026.csv
 
-nyc-college-mission-vision-statements.ipynb
+  - nyc-college-mission-vision-statements.ipynb
 
 You can download them by:
 
