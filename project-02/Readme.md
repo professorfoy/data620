@@ -13,3 +13,5 @@ Your code and analysis should be delivered in an IPython Notebook by end of day 
 ================================================================================
 
 I created a **[Teams folder](https://teams.microsoft.com/v2/)** to populate mission and value statements for all NYC colleges.
+
+I also created a working Python script to develop the project. It is labeled nyc-college-mission-vision-statements.ipynb.
