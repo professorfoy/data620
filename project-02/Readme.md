@@ -15,3 +15,25 @@ Your code and analysis should be delivered in an IPython Notebook by end of day 
 I created a **[Teams folder](https://teams.microsoft.com/v2/)** to populate mission and value statements for all NYC colleges.
 
 I also created a working Python script to develop the project. It is labeled ***nyc-college-mission-vision-statements.ipynb***.
+
+**How to Run the .ipynb file in your Jupyter Notebook:**
+
+Follow the steps below to download and run the project notebook.
+
+1. Download the Project Files
+
+Download the following files from this repository:
+
+ipeds-colleges-complete-dataset-3-9-2026.csv
+
+nyc-college-mission-vision-statements.ipynb
+
+You can download them by:
+
+Opening the file in GitHub
+
+Clicking Download Raw
+
+Saving the file to the same folder on your computer
+
+Alternatively, download the entire repository as a ZIP file.
