@@ -32,6 +32,6 @@ You can download them by:
 
 2. Clicking Download Raw
 
-3. Save the files to the same folder on your computer, then open the ipnyb file in Jupyter Notebook.
+3. Save the files to the same folder on your computer, then open the .ipnyb file in Jupyter Notebook.
 
 Alternatively, you can download the entire repository as a ZIP file.
