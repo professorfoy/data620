@@ -12,7 +12,7 @@ Project Instructions per Brightspace:
 
 ================================================================================
 
-I created a **[Google Sheet](https://docs.google.com/spreadsheets/d/1nE5HAiaJ1hnqT8L-6V39qtfZdmgrvhg0xJ8USGvzLrk/edit?gid=330994438#gid=330994438))** to populate mission and value statements for all NYC colleges. Only those with permission can view the spreadsheet.
+I created a **[Google Sheet](https://docs.google.com/spreadsheets/d/1nE5HAiaJ1hnqT8L-6V39qtfZdmgrvhg0xJ8USGvzLrk/edit?gid=330994438#gid=330994438)** to populate mission and value statements for all NYC colleges. Only those with permission can view the spreadsheet.
 
 I also created a working Python script to develop the project. It is labeled ***nyc-college-mission-vision-statements.ipynb***.
 
