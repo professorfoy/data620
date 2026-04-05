@@ -4,7 +4,7 @@
 
 It can be useful to be able to classify new "test" documents using already classified "training" documents.  
 A common example is using a corpus of labeled spam and ham (non-spam) e-mails to predict whether or not a new document is spam.  
-Here is one example of such data:  UCI Machine Learning Repository: Spambase Data Set
+Here is one example of such data:  UCI Machine Learning Repository: **(Spambase Data Set)[https://archive.ics.uci.edu/dataset/94/spambase]**
 
 For this project, you can either use the above dataset to predict the class of new documents (either withheld from the training 
 dataset or from another source such as your own spam folder).
